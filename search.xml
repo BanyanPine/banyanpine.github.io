@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>hexo introduce</title>
+      <link href="/2024/03/02/hexo%20introduce/"/>
+      <url>/2024/03/02/hexo%20introduce/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hexo基礎"><a href="#hexo基礎" class="headerlink" title="hexo基礎"></a>hexo基礎</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Hexo是一個基於Node.js開發的部落格框架</p><h2 id="hexo架構-基礎語法"><a href="#hexo架構-基礎語法" class="headerlink" title="hexo架構+基礎語法"></a>hexo架構+基礎語法</h2><h3 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init &lt;資料夾名稱&gt;</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure><h3 id="新增文章"><a href="#新增文章" class="headerlink" title="新增文章"></a>新增文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><h3 id="除靜態檔案與快取"><a href="#除靜態檔案與快取" class="headerlink" title="除靜態檔案與快取"></a>除靜態檔案與快取</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure><h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br><span class="line">&lt;!--hexo g--&gt;</span><br></pre></td></tr></table></figure><h3 id="產生伺服器"><a href="#產生伺服器" class="headerlink" title="產生伺服器"></a>產生伺服器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br><span class="line">&lt;!--hexo se--&gt;</span><br></pre></td></tr></table></figure><h3 id="部屬三步驟"><a href="#部屬三步驟" class="headerlink" title="部屬三步驟"></a>部屬三步驟</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>html基礎</title>
       <link href="/2024/02/24/html%20base/"/>
       <url>/2024/02/24/html%20base/</url>
